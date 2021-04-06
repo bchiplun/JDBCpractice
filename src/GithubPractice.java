@@ -5,6 +5,8 @@ public class GithubPractice {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Smal code for github practice by the second user.. changes made after cloning...");
+		
+		System.out.println("Third commmit just for practice");
 
 	}
 
