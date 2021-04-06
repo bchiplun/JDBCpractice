@@ -10,6 +10,10 @@ public class GithubPractice {
 		
 		System.out.println("New change from orignal coder");
 
+		System.out.println("to add in new branch");
+		
+		System.out.println("to add in new branch2");
+
 	}
 
 }
