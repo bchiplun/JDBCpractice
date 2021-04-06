@@ -21,6 +21,8 @@ public class jdbcconnection {
 		System.out.println(rs.getString("password"));
 		}
 		
+		System.out.println("Small change for github practice");
+		
 	}
 
 }
